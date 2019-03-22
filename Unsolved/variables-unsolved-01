@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Various Types of Variables - Unsolved</title>
+  </head>
+  <body>
+
+    <script type="text/javascript">
+
+    // INSTRUCTIONS:
+    // Fill in the blanks with the variable type that is called for.
+    // Don't forget to close the variable with a SEMICOLON. 
+    // Fill in the comments to predict what the output will be. 
+
+    // DECLARE THE VARIABLES
+    // =============================================
+
+    // This variable needs to be a STRING (Remember to use quotation marks)
+    var name = 
+
+    // This variable needs to be a NUMBER 
+    var age = 
+
+    // This variable needs to be a BOOLEAN (True or False)
+    var birthdayIsToday = 
+
+
+
+    // MAKE YOUR PREDICTIONS IN THE COMMENTS
+    // ==============================================
+
+    var birthdayAge = age + 1;
+
+    // What will be shown to the user in this alert function below? 
+    // WRITE YOUR PREDICTION HERE
+    alert(name + " is only " + age + " years old.");
+
+    // What will be shown to the user in this alert function below? 
+    // WRITE YOUR PREDICTION HERE
+    alert("Today, " + name + " is turning " + birthdayAge + ": " + birthdayIsToday);
+
+    </script>
+
+  </body>
+</html>
