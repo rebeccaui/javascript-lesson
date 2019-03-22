@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Hooray for Arrays</title>
+  </head>
+  <body>
+
+    <h1>Right click and use the Inspector to open the console to see what has been written!</h1>
+
+    <script type="text/javascript">
+
+    // An array of characters in the form of strings
+    var gameOfThronesCharacters = ["Khaleesi", "Jon Snow", "Ygritte", "Sansa"];
+
+    // Prints 4 to the console, our total amount of items
+    console.log(gameOfThronesCharacters.length);
+
+    // Prints Khaleesi to the console 
+    // The first item in an array has an index position of 0.
+    console.log(gameOfThronesCharacters[1]);
+
+    // Prints undefined... WHY?
+    // WRITE YOUR ANSWER HERE
+    console.log(gameOfThronesCharacters[4]);
+
+    // WRITE A FUNCTION TO PRINT YGRITTE'S NAME TO THE CONSOLE.
+    //==============================================================
+
+    </script>
+
+  </body>
+</html>
