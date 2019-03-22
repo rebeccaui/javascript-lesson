@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Talk to Me - Unsolved</title>
+  </head>
+  <body>
+
+    <script type="text/javascript">
+
+        // Write a confirm function which takes in true or false and stores it to a variable.
+        // WRITE YOUR CODE HERE
+
+        // Write a prompt function which takes in user input and stores it to a variable.
+        // WRITE YOUR CODE HERE
+
+        // Write alert functions that shows the user their answers for the confirm and prompt.
+        // WRITE YOUR CODE HERE
+
+    </script>
+
+  </body>
+</html>
