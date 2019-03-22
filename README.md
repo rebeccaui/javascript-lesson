@@ -83,7 +83,7 @@ Give students ten minutes to share screen and complete assignment.
 
 Students will download this file in the class activities Slack channel. 
 
-### Activity 3: Hooray for Arrays Review (Instructors Do: 5 minutes)
+### Activity 3.5: Hooray for Arrays Review (Instructors Do: 5 minutes)
 
 Use this time to engage students and have them call out answers and ask leading questions so that they use reasoning. "How do you know...?"
 
