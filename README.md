@@ -1,5 +1,5 @@
 ## Intro to JavaScript (60 minutes)
-#### By: Rebecca Wieberdink Copyright 2019
+#### By: Rebecca Cowart Copyright 2019
 
 Prior Knowledge: HTML and CSS, basics of Git and Github
 
